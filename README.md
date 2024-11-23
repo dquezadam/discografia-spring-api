@@ -1,2 +1,2 @@
-# discografia-spring-api
- API REST Spring Discografia
+# iplacex--discografica--api-Daniel_Quezada
+"API REST Spring para administración de discografías favoritas de empleados de IPLACEX”
